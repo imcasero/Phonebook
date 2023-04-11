@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Web;
 using CsvHelper;
 using System.IO;
+
 using System.Diagnostics.Contracts;
 //Crear una aplicación de gestión de contactos que permita almacenar, 
 //buscar, editar y eliminar información de contacto como nombre, apellido, 
@@ -18,7 +19,7 @@ namespace Agenda
     {
         static void Main(string[] args)
         {
-            string ruta = @"\Agenda\Agenda\datos\contactos.csv";
+            string ruta = @"../../datos/contactos.csv";
             bool respuesta = Comprobar(ruta);
             List<Contacto> listaContactos = LeerContactosDesdeCSV(ruta);
             if (respuesta)
@@ -49,7 +50,7 @@ namespace Agenda
                         case 2:
                             Contacto nuevo = CrearContacto(listaContactos);
                             Contacto.AgregarContacto(nuevo, listaContactos);
-                            EscribirContactosEnCSV(listaContactos , ruta);
+                            EscribirContactosEnCSV(listaContactos, ruta);
                             break;
                         case 3:
                             Console.WriteLine("Introduzca el id del contacto que desea editar");
@@ -78,7 +79,8 @@ namespace Agenda
                             if (resul == null)
                             {
                                 Console.WriteLine("No se encontro el contacto");
-                            }else
+                            }
+                            else
                             {
                                 Console.WriteLine("Id: " + resul.Id);
                                 Console.WriteLine("Nombre: " + resul.Nombre);
@@ -98,7 +100,7 @@ namespace Agenda
                 }
             }
             else
-            { 
+            {
                 Console.WriteLine("No existen contactos, empeice a añadir contactos");
             }
         }
