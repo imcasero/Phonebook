@@ -1,0 +1,50 @@
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\obj\Debug\Agenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\CsvHelper.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Buffers.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Memory.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\CsvHelper.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Buffers.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Memory.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\diego.casero.ext\Desktop\Itinerario .NET\Agenda\Agenda\obj\Debug\Agenda.csproj.CopyComplete
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\CsvHelper.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Buffers.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Memory.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Numerics.Vectors.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\CsvHelper.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Buffers.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Memory.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Numerics.Vectors.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\obj\Debug\Agenda.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\obj\Debug\Agenda.csproj.CopyComplete
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\xampp\htdocs\Proyectos\Agenda\Agenda\obj\Debug\Agenda.pdb
