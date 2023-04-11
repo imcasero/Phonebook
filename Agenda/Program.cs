@@ -18,7 +18,7 @@ namespace Agenda
     {
         static void Main(string[] args)
         {
-            string ruta = @".\Agenda\datos\contactos.csv";
+            string ruta = @"\Agenda\Agenda\datos\contactos.csv";
             bool respuesta = Comprobar(ruta);
             List<Contacto> listaContactos = LeerContactosDesdeCSV(ruta);
             if (respuesta)
