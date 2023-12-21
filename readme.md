@@ -1,4 +1,4 @@
-# C# Agenda
+# C# Phonebook
 
 This is a simple agenda management project created in C#. The application runs on the console and uses a CSV file to store contacts.
 
